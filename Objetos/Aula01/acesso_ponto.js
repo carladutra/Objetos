@@ -5,5 +5,6 @@ const objetoPessoa = {
     email: "carla.dutra.medeiros@escola.pr.gov.br",
 
 }
+//Acessando com os pontos
+console.log(`O nome do cliente é ${objetoPessoa.nome} e sua idade ${objetoPessoa.idade} anos`)
 
-console.log(objetoPessoa)
