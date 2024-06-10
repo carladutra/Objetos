@@ -4,4 +4,4 @@ const cliente = {
     email: "carla@email.com.br",
     telefone: ["(43)999077471", "(43)999226866"],
 };
-console.log(cliente);
+console.log(cliente.telefone);
